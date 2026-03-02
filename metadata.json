@@ -1,0 +1,8 @@
+{
+    "uuid": "chinese-calendar@lnxyz",
+    "name": "中国日历",
+    "description": "显示中国传统日历",
+    "icon": "gnome-calendar",
+    "max-instances": -1,
+    "version": "0.1.0"
+}
