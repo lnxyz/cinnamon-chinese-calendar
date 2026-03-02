@@ -1,6 +1,6 @@
 # Chinese Lunar Calendar Applet for Cinnamon
 
-[![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](LICENSE)
 
 这是一个为 Cinnamon 桌面环境开发的农历日历小程序，基于官方的日历小部件（`calendar@cinnamon.org`）并集成了 [lunar-javascript](https://github.com/your-fork-or-original) 库，在日历格子中显示农历日期、节气、节日等信息。
 
@@ -63,7 +63,7 @@ cp -r chinese-calendar-cinnamon ~/.local/share/cinnamon/applets/chinese-calendar
 
 ## 📚 项目背景
 
-本项目是在 Cinnamon 官方日历小程序 `calendar@cinnamon.org` 的基础上，集成了 [lunar-javascript](https://github.com/6tail/lunar-javascript) 库实现的。原官方日历由 Cinnamon 团队开发，遵循 GPL v2 许可证；lunar-javascript 使用 MIT 许可证。本整合项目遵循 GPL v3 许可证。
+本项目是在 Cinnamon 官方日历小程序 `calendar@cinnamon.org` 的基础上，集成了 [lunar-javascript](https://github.com/6tail/lunar-javascript) 库实现的。原官方日历由 Cinnamon 团队开发，遵循 GPL v2 许可证；lunar-javascript 使用 MIT 许可证。本整合项目遵循 GPL v2 许可证。
 
 ## 🤝 贡献与修改
 
@@ -71,7 +71,7 @@ cp -r chinese-calendar-cinnamon ~/.local/share/cinnamon/applets/chinese-calendar
 
 ## 📄 许可证
 
-* 本项目的核心修改部分采用 [GPL v3](https://LICENSE) 许可证。
+* 本项目的核心修改部分采用 [GPL v2](https://LICENSE) 许可证。
 
 * 官方日历部分来源于 Cinnamon，其许可证为 GPL v2。
 
