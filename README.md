@@ -21,12 +21,12 @@
 1. 下载本仓库代码：
 
 ```bash
-   git clone https://github.com/lnxyz/chinese-calendar-cinnamon.git
+   git clone https://github.com/lnxyz/cinnamon-chinese-calendar.git
 ```
 
 2. 将文件夹复制到 Cinnamon 的 applets 目录：
 ```
-cp -r chinese-calendar-cinnamon ~/.local/share/cinnamon/applets/chinese-calendar@你的id
+cp -r cinnamon-chinese-calendar ~/.local/share/cinnamon/applets/chinese-calendar@你的id
 （请将 @你的id 替换为您在 metadata.json 中定义的 uuid）
 ```
 重启 Cinnamon（Alt+F2 输入 r 回车）
